@@ -1,0 +1,12 @@
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Environment\obj\Debug\netstandard2.0\OSD_Environment.csprojAssemblyReference.cache
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Environment\obj\Debug\netstandard2.0\OSD_Environment.AssemblyInfoInputs.cache
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Environment\obj\Debug\netstandard2.0\OSD_Environment.AssemblyInfo.cs
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Environment\obj\Debug\netstandard2.0\OSD_Environment.csproj.CoreCompileInputs.cache
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Environment\bin\Debug\netstandard2.0\OSD_Environment.deps.json
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Environment\bin\Debug\netstandard2.0\OSD_Environment.dll
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Environment\bin\Debug\netstandard2.0\OSD_Environment.pdb
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Environment\bin\Debug\netstandard2.0\OSD_Utility.dll
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Environment\bin\Debug\netstandard2.0\OSD_Utility.pdb
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Environment\obj\Debug\netstandard2.0\OSD_Environment.csproj.CopyComplete
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Environment\obj\Debug\netstandard2.0\OSD_Environment.dll
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Environment\obj\Debug\netstandard2.0\OSD_Environment.pdb

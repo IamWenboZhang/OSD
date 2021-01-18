@@ -1,0 +1,9 @@
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Utility\obj\Debug\netcoreapp2.1\OSD_Utility.csprojAssemblyReference.cache
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Utility\obj\Debug\netcoreapp2.1\OSD_Utility.AssemblyInfoInputs.cache
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Utility\obj\Debug\netcoreapp2.1\OSD_Utility.AssemblyInfo.cs
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Utility\obj\Debug\netcoreapp2.1\OSD_Utility.csproj.CoreCompileInputs.cache
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Utility\bin\Debug\netcoreapp2.1\OSD_Utility.deps.json
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Utility\bin\Debug\netcoreapp2.1\OSD_Utility.dll
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Utility\bin\Debug\netcoreapp2.1\OSD_Utility.pdb
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Utility\obj\Debug\netcoreapp2.1\OSD_Utility.dll
+C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Utility\obj\Debug\netcoreapp2.1\OSD_Utility.pdb
