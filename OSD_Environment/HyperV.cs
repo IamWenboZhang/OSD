@@ -14,7 +14,7 @@ namespace OSD_Environment
             // Start-VM -Name PowerShellCreated
             string memory_info = vm.MemorySize + "MB";
             string newVMCmd = $"New-VM -MemoryStartupBytes {memory_info} -Name {vm.Name} -Path {vm.StoragePath}";
-            PowerShellHelper.RunScript("");
+            PowerShellHelper.RunScript(newVMCmd);
             return true;
         }
     }

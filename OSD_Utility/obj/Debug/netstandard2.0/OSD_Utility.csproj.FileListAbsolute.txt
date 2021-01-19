@@ -7,3 +7,12 @@ C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Utility\bin\Debug\
 C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Utility\bin\Debug\netstandard2.0\OSD_Utility.pdb
 C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Utility\obj\Debug\netstandard2.0\OSD_Utility.dll
 C:\Users\v-wenboz\OneDrive - Microsoft\Documents\Work\OSD\OSD_Utility\obj\Debug\netstandard2.0\OSD_Utility.pdb
+C:\Users\zwbhe\source\repos\OSD\OSD_Utility\bin\Debug\netstandard2.0\OSD_Utility.deps.json
+C:\Users\zwbhe\source\repos\OSD\OSD_Utility\bin\Debug\netstandard2.0\OSD_Utility.dll
+C:\Users\zwbhe\source\repos\OSD\OSD_Utility\bin\Debug\netstandard2.0\OSD_Utility.pdb
+C:\Users\zwbhe\source\repos\OSD\OSD_Utility\obj\Debug\netstandard2.0\OSD_Utility.csprojAssemblyReference.cache
+C:\Users\zwbhe\source\repos\OSD\OSD_Utility\obj\Debug\netstandard2.0\OSD_Utility.AssemblyInfoInputs.cache
+C:\Users\zwbhe\source\repos\OSD\OSD_Utility\obj\Debug\netstandard2.0\OSD_Utility.AssemblyInfo.cs
+C:\Users\zwbhe\source\repos\OSD\OSD_Utility\obj\Debug\netstandard2.0\OSD_Utility.csproj.CoreCompileInputs.cache
+C:\Users\zwbhe\source\repos\OSD\OSD_Utility\obj\Debug\netstandard2.0\OSD_Utility.dll
+C:\Users\zwbhe\source\repos\OSD\OSD_Utility\obj\Debug\netstandard2.0\OSD_Utility.pdb
